@@ -1,0 +1,7 @@
+/api/*  https://countries.trevorblades.com/  200
+[[redirects]]
+  from = "/search"
+  to = "https://countries.trevorblades.com/"
+  status = 200
+  force = true
+  signed = "API_SIGNATURE_TOKEN"

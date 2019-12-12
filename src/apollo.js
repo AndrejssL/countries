@@ -1,5 +1,5 @@
-import ApolloClient from 'apollo-boost';
+import ApolloClient from "apollo-boost";
 
 export const client = new ApolloClient({
-  uri: 'https://countries.trevorblades.com',
+  uri: "https://countries.trevorblades.com"
 });
