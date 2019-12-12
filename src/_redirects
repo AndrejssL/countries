@@ -1,6 +1,6 @@
 /api/*  https://countries.trevorblades.com/  200
 [[redirects]]
-  from = "/search"
+  from = "/"
   to = "https://countries.trevorblades.com/"
   status = 200
   force = true
